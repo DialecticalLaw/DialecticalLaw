@@ -61,3 +61,15 @@
 </div>
 
 ###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<div align="left">
+  <p><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /> Discord: proxymc</p>
+  <p><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /> Telegram: <a href="https://t.me/prxmc">prxmc</a></p>
+  <p><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> Gmail: d.shmyratkin@gmail.com</p>
+</div>
+
+###
